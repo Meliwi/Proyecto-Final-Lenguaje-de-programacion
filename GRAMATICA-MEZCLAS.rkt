@@ -1,7 +1,7 @@
 #lang eopl
 ;INTEGRANTES:
-;1871074-MICHELLE GONZÁLEZ HERNÁNDEZ
-;1832127-MELISSA GONZÁLEZ NEBRIJO
+MICHELLE GONZÁLEZ HERNÁNDEZ
+MELISSA GONZÁLEZ NEBRIJO
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;Especificación léxica
 
